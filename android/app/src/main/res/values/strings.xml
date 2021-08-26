@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nombox</string>
+    <string name="facebook_app_id">311633416141153</string>
+    <string name="fb_login_protocol_scheme">fb311633416141153</string>
+</resources>
